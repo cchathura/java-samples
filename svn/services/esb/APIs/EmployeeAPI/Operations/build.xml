@@ -1,0 +1,20 @@
+<project name="MyProject" default="create" basedir=".">
+
+<taskdef name="xmltask" classname="com.oopsconsultancy.xmltask.ant.XmlTask"/>
+	
+
+    <target name="clean">
+        
+    </target>
+
+    <target name="create"/>
+
+    <target name="jar">
+       
+    </target>
+
+    <target name="run">
+       
+    </target>
+
+</project>

@@ -1,0 +1,12 @@
+<resource methods="GET" uri-template="/employee/{employeeID}/Metric">
+      <inSequence onError="ErrorSequence">
+         <property name="FORCE_ERROR_ON_SOAP_FAULT" value="true"></property>
+         <property name="uri.var.loginName" expression="get-property('uri.var.employeeID')"></property>
+         <log level="custom">
+            <property name="GET Employee Metric Log: " expression="get-property('uri.var.loginName')"></property>
+         </log>
+         <send>
+            <endpoint key="BI_Metric_EP"></endpoint>
+         </send>
+      </inSequence>
+   </resource>

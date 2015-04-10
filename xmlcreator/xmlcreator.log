@@ -1,0 +1,280 @@
+2015-04-09 14:20:44 INFO  XMLCreatorUtillImpl:110 - startmerge files
+2015-04-09 14:20:45 INFO  XMLCreatorUtillImpl:110 - startmerge files
+2015-04-09 15:10:12 INFO  XMLCreatorUtillImpl:110 - startmerge files
+2015-04-09 15:10:12 ERROR XMLCreatorUtillImpl:137 - Error in Transform java.io.FileNotFoundException: C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\deployment\deployment.xml (The system cannot find the path specified)
+2015-04-09 15:10:12 INFO  XMLCreatorUtillImpl:110 - startmerge files
+2015-04-09 15:10:12 ERROR XMLCreatorUtillImpl:137 - Error in Transform java.io.FileNotFoundException: C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\deployment\deployment.xml (The system cannot find the path specified)
+2015-04-09 15:16:56 INFO  XMLCreatorUtillImpl:114 - startmerge files
+2015-04-09 15:16:56 INFO  XMLCreatorUtillImpl:114 - startmerge files
+2015-04-09 15:22:29 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:22:29 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:23:07 INFO  EsbXmlFileHandlerForAPIs:47 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:23:07 INFO  EsbXmlFileHandlerForAPIs:36 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 15:23:07 INFO  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:23:07 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:23:07 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:24:49 WARN  EsbXmlFileHandlerForAPIs:47 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:24:49 INFO  EsbXmlFileHandlerForAPIs:36 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 15:24:49 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:24:49 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:24:49 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:25:30 WARN  EsbXmlFileHandlerForAPIs:47 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:25:30 WARN  EsbXmlFileHandlerForAPIs:36 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 15:25:30 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:25:30 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:25:30 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:50:49 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:50:49 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 15:50:49 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:50:49 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:50:49 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:51:13 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:51:13 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 15:51:13 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:51:13 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:51:13 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:56:56 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:56:56 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 15:56:56 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:56:57 INFO  XMLCreatorUtillImpl:134 - mainConfig.xml File merged
+2015-04-09 15:57:45 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:57:45 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 15:57:45 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\Operations\Attendance\mainConfig.xml File merged
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\Operations\isTimeEntered\mainConfig.xml File merged
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\Operations\justGet\mainConfig.xml File merged
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\Operations\leaveentitlement\mainConfig.xml File merged
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\Operations\leaves\mainConfig.xml File merged
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\Operations\Loginfortoken\mainConfig.xml File merged
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\Operations\Lop-Attendance\mainConfig.xml File merged
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\Operations\Metric\mainConfig.xml File merged
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\Operations\onboardingdata\mainConfig.xml File merged
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\Operations\Loginfortoken\mainConfig.xml File merged
+2015-04-09 15:57:45 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\Operations\Qulifications\mainConfig.xml File merged
+2015-04-09 15:58:11 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:58:11 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 15:58:11 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance File merged
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered File merged
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet File merged
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement File merged
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves File merged
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken File merged
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance File merged
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric File merged
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata File merged
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken File merged
+2015-04-09 15:58:11 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications File merged
+2015-04-09 15:59:13 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:59:13 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 15:59:13 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance File merged
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered File merged
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet File merged
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement File merged
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves File merged
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken File merged
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance File merged
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric File merged
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata File merged
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken File merged
+2015-04-09 15:59:13 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications File merged
+2015-04-09 15:59:29 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:59:29 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 15:59:29 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance File merged
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered File merged
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet File merged
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement File merged
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves File merged
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken File merged
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance File merged
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric File merged
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata File merged
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken File merged
+2015-04-09 15:59:29 INFO  XMLCreatorUtillImpl:134 - C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications File merged
+2015-04-09 16:25:21 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 16:25:21 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 16:25:21 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:97 - Couldn't create dir: C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\C:\Projects\research\EAG
+2015-04-09 16:25:21 ERROR XMLCreatorUtillImpl:145 - Error in Transform java.io.FileNotFoundException: C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\C:\Projects\research\EAG\svn (The filename, directory name, or volume label syntax is incorrect)
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-09 16:25:21 INFO  XMLCreatorUtillImpl:97 - Couldn't create dir: C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\C:\Projects\research\EAG
+2015-04-09 16:25:21 ERROR XMLCreatorUtillImpl:145 - Error in Transform java.io.FileNotFoundException: C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\C:\Projects\research\EAG\svn (The filename, directory name, or volume label syntax is incorrect)
+2015-04-09 16:27:52 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 16:27:52 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 16:27:52 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:97 - Couldn't create dir: C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\C:\Projects\research\EAG
+2015-04-09 16:27:52 ERROR XMLCreatorUtillImpl:146 - Error in Transform java.io.FileNotFoundException: C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\C:\Projects\research\EAG\svn (The filename, directory name, or volume label syntax is incorrect)
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-09 16:27:52 INFO  XMLCreatorUtillImpl:97 - Couldn't create dir: C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\C:\Projects\research\EAG
+2015-04-09 16:27:52 ERROR XMLCreatorUtillImpl:146 - Error in Transform java.io.FileNotFoundException: C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\C:\Projects\research\EAG\svn (The filename, directory name, or volume label syntax is incorrect)
+2015-04-09 16:30:41 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 16:30:41 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 16:30:41 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-09 16:30:42 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-09 16:33:16 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 16:33:16 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-09 16:33:16 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-09 16:33:16 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-09 17:15:51 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 17:15:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-09 17:15:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-09 17:15:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-09 17:15:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement
+2015-04-09 17:15:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-09 17:15:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken
+2015-04-09 17:15:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance
+2015-04-09 17:15:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric
+2015-04-09 17:15:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-09 17:16:24 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-10 09:37:26 INFO  CLI:51 - run for all APIs to create deployment xml
+2015-04-10 09:37:26 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-10 09:37:26 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-10 09:37:26 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-10 09:37:26 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-10 09:37:27 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-10 09:42:53 WARN  EsbXmlFileHandlerForAPIs:62 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI,TaskAPI
+2015-04-10 09:42:53 WARN  EsbXmlFileHandlerForAPIs:47 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI,TaskAPI\operations
+2015-04-10 09:42:53 WARN  ESBAPIDeploymentFactory:110 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI,TaskAPI
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-10 09:44:26 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-10 13:17:31 WARN  EsbXmlFileHandlerForAPIs:109 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-10 13:17:31 WARN  EsbXmlFileHandlerForAPIs:55 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-10 13:17:31 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-10 13:17:31 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 13:17:32 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-10 13:17:32 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-10 13:17:32 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-10 13:17:32 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement
+2015-04-10 13:17:32 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-10 13:17:32 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken
+2015-04-10 13:17:32 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance
+2015-04-10 13:17:33 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric
+2015-04-10 13:17:33 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata
+2015-04-10 13:17:33 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 13:17:33 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-10 13:17:33 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-10 13:20:14 WARN  EsbXmlFileHandlerForAPIs:109 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-10 13:20:14 WARN  EsbXmlFileHandlerForAPIs:90 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-10 13:20:14 WARN  ESBAPIDeploymentFactory:72 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaveentitlement
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Loginfortoken
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Lop-Attendance
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Metric
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\onboardingdata
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-10 13:20:14 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-10 13:29:15 WARN  ESBAPIDeploymentFactory:110 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI
+2015-04-10 13:29:34 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 13:29:34 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-10 13:33:02 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 13:33:02 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-10 13:33:02 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves

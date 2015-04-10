@@ -1,0 +1,35 @@
+<project name="MyProject" default="create" basedir=".">
+<taskdef resource="net/sf/antcontrib/antlib.xml"/>
+<taskdef name="xmltask" classname="com.oopsconsultancy.xmltask.ant.XmlTask"/>
+	
+
+    <target name="clean">
+        
+    </target>
+
+    <target name="create">
+<echo>employeeAPI</echo>
+   <foreach target="list.dirs" param="dir.name">
+<path>
+<dirset dir="${basedir}" includes="*"/>
+</path>
+</foreach>
+
+ 
+
+    </target>
+
+<target name="list.dirs">
+<echo message="${dir.name}"/>
+</target>
+      
+
+    <target name="jar">
+       
+    </target>
+
+    <target name="run">
+       
+    </target>
+
+</project>

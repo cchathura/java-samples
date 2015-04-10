@@ -1,0 +1,11 @@
+<resource methods="GET" uri-template="/employee/{partyID}/onboardingdata*">
+      <inSequence onError="ErrorSequence">
+         <sequence key="OnBoarding_CheckList_Seq"></sequence>
+      </inSequence>
+      <outSequence>
+         <xslt key="remove_soap_env"></xslt>
+         <xslt key="onboading_join_all_element"></xslt>
+         <property name="messageType" value="application/json" scope="axis2"></property>
+         <send></send>
+      </outSequence>
+   </resource>

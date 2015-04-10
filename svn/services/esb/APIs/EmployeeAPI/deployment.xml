@@ -1,0 +1,62 @@
+<api xmlns="http://ws.apache.org/ns/synapse" context="/EmployeeAPITest" name="EmployeeAPITest">
+<resource methods="GET" uri-template="/employee/{employeeID}/competency/status*">
+      <inSequence>
+         <header name="Action" value="urn:CompetencyStatusOperation"/>
+         <payloadFactory media-type="xml">
+            <format>
+               <soapenv:Envelope xmlns:dat="http://ws.wso2.org/dataservice" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+                  <soapenv:Header/>
+                  <soapenv:Body>
+                     <dat:CompetencyStatusOperation>
+                        <dat:employeeID>$1</dat:employeeID>
+                     </dat:CompetencyStatusOperation>
+                  </soapenv:Body>
+               </soapenv:Envelope>
+            </format>
+            <args>
+               <arg evaluator="xml" expression="get-property('uri.var.employeeID')"/>
+            </args>
+         </payloadFactory>
+         <send>
+            <endpoint>
+               <address format="soap11" uri="http://10.2.169.74:9783/services/Velocity_Onboarding"/>
+            </endpoint>
+         </send>
+      </inSequence>
+      <outSequence>
+         <xslt key="attribute_remove_xslt"/>
+         <property name="messageType" scope="axis2" value="application/json"/>
+         <send/>
+      </outSequence>
+   </resource>
+    <resource methods="GET" uri-template="/employee/{employeeID}/qualifications*">
+      <inSequence>
+         <header name="Action" value="urn:EducationQualificationsOperation"/>
+         <payloadFactory media-type="xml">
+            <format>
+               <soapenv:Envelope xmlns:dat="http://ws.wso2.org/dataservice" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+                  <soapenv:Header/>
+                  <soapenv:Body>
+                     <dat:EducationQualificationsOperation>
+                        <dat:employeeID>$1</dat:employeeID>
+                     </dat:EducationQualificationsOperation>
+                  </soapenv:Body>
+               </soapenv:Envelope>
+            </format>
+            <args>
+               <arg evaluator="xml" expression="get-property('uri.var.employeeID')"/>
+            </args>
+         </payloadFactory>
+         <send>
+            <endpoint>
+               <address format="soap11" uri="http://10.2.169.74:9783/services/Velocity_Onboarding"/>
+            </endpoint>
+         </send>
+      </inSequence>
+      <outSequence>
+         <xslt key="attribute_remove_xslt"/>
+         <property name="messageType" scope="axis2" value="application/json"/>
+         <send/>
+      </outSequence>
+   </resource>
+</api>

@@ -1,0 +1,9 @@
+<resource methods="GET" uri-template="/employee/{partyID}/leaveentitlement*">
+      <inSequence>
+         <sequence key="Employee_Leave_Ent_Seq"></sequence>
+      </inSequence>
+      <outSequence>
+         <property name="messageType" value="application/json" scope="axis2"></property>
+         <send></send>
+      </outSequence>
+   </resource>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="subant" default="subant1">
+
+
+      <target name="subant1">
+
+           <subant target="">
+
+                 <dirset dir="." includes="*"/>
+                 <target name="create" />
+
+             </subant>
+ 
+
+        </target>
+
+</project>

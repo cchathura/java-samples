@@ -1,0 +1,10 @@
+<resource methods="GET" uri-template="/employee/{partyID}/leaves*">
+      <inSequence>
+         <sequence key="Employee_Leave_Seq"></sequence>
+      </inSequence>
+      <outSequence>
+         <xslt key="attribute_remove_xslt"></xslt>
+         <property name="messageType" value="application/json" scope="axis2"></property>
+         <send></send>
+      </outSequence>
+   </resource>

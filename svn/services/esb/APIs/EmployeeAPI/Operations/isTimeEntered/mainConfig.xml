@@ -1,0 +1,41 @@
+ <resource methods="GET" uri-template="/employee/{employeeID}/LOPDetails/isTimeEntered*">
+      <inSequence>
+         <property name="Date" expression="$url:Date"></property>
+         <filter source="boolean(get-property('Date'))" regex="false">
+            <then>
+               <log level="custom">
+                  <property name="Time ernter Log " value="Date is set "></property>
+               </log>
+            </then>
+            <else>
+               <header name="Action" value="urn:isTimeEnteredOnDate"></header>
+               <payloadFactory media-type="xml">
+                  <format>
+                     <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:dat="http://ws.wso2.org/dataservice">
+                        <soapenv:Header></soapenv:Header>
+                        <soapenv:Body>
+                           <dat:isTimeEnteredOnDate>
+                              <dat:EmployeeID>$1</dat:EmployeeID>
+                              <dat:Date>$2</dat:Date>
+                           </dat:isTimeEnteredOnDate>
+                        </soapenv:Body>
+                     </soapenv:Envelope>
+                  </format>
+                  <args>
+                     <arg evaluator="xml" expression="get-property('uri.var.employeeID')"></arg>
+                     <arg evaluator="xml" expression="get-property('Date')"></arg>
+                  </args>
+               </payloadFactory>
+               <log level="full"></log>
+               <send>
+                  <endpoint key="DSS_ChorusTimeEntryDetails_EP"></endpoint>
+               </send>
+            </else>
+         </filter>
+      </inSequence>
+      <outSequence>
+         <xslt key="attribute_remove_xslt"></xslt>
+         <property name="messageType" value="application/json" scope="axis2"></property>
+         <send></send>
+      </outSequence>
+   </resource>

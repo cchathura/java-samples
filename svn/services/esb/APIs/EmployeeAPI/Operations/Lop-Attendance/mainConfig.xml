@@ -1,0 +1,70 @@
+<resource methods="GET" uri-template="/employee/{employeeID}/LOPDetails/Attendance">
+      <inSequence onError="ErrorSequence">
+         <property name="query.param.pName" expression="get-property('uri.var.employeeID')"></property>
+         <property name="query.param.pColumns" value="PERSONID,GROUPATC"></property>
+         <call>
+            <endpoint key="H2_EMP_SEARCH_EP"></endpoint>
+         </call>
+         <property name="messageType" action="remove"></property>
+         <log level="custom">
+            <property name="===result1===" expression="json-eval($.Employees.Employee[0].PERSONID)"></property>
+            <property name="===result2===" expression="json-eval($.Employees.Employee[0].GROUPATC)"></property>
+         </log>
+         <switch source="json-eval($.Employees.Employee[0].GROUPATC)">
+            <case regex="MUM ATC">
+               <property name="viewName" value="VIRT_MV_LEAVE_ATT_NOTIFY_MUM"></property>
+            </case>
+            <case regex="CHE ATC">
+               <property name="viewName" value="VIRT_MV_LEAVE_ATT_NOTIFY_CHE"></property>
+            </case>
+            <case regex="HYD ATC">
+               <property name="viewName" value="VIRT_MV_LEAVE_ATT_NOTIFY_HYD"></property>
+            </case>
+            <case regex="KOL ATC">
+               <property name="viewName" value="VIRT_MV_LEAVE_ATT_NOTIFY_KOL"></property>
+            </case>
+            <case regex="CMB ATC">
+               <property name="viewName" value="VIRT_MV_LEAVE_ATT_NOTIFY_SL"></property>
+            </case>
+            <default>
+               <payloadFactory media-type="json">
+                  <format>{"LOPDetails":null}</format>
+                  <args></args>
+               </payloadFactory>
+               <respond></respond>
+            </default>
+         </switch>
+         <payloadFactory media-type="xml">
+            <format>
+               <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:dat="http://ws.wso2.org/dataservice">
+                  <soapenv:Header></soapenv:Header>
+                  <soapenv:Body>
+                     <dat:LOPDetailsOperation>
+                        <dat:personId>$1</dat:personId>
+                        <dat:viewName>$2</dat:viewName>
+                     </dat:LOPDetailsOperation>
+                  </soapenv:Body>
+               </soapenv:Envelope>
+            </format>
+            <args>
+               <arg evaluator="json" expression="$.Employees.Employee[0].PERSONID"></arg>
+               <arg evaluator="xml" expression="get-property('viewName')"></arg>
+            </args>
+         </payloadFactory>
+         <header name="Action" value="urn:LOPDetailsOperation"></header>
+         <call>
+            <endpoint key="DSS_LOPDetails_Attendance_EP"></endpoint>
+         </call>
+         <payloadFactory media-type="xml">
+            <format>
+               <LOPDetails>$1</LOPDetails>
+            </format>
+            <args>
+               <arg xmlns:data="http://ws.wso2.org/dataservice" evaluator="xml" expression="//data:LOPDetails/data:Attendance"></arg>
+            </args>
+         </payloadFactory>
+         <xslt key="attribute_remove_xslt"></xslt>
+         <property name="messageType" value="application/json" scope="axis2"></property>
+         <respond></respond>
+      </inSequence>
+   </resource>

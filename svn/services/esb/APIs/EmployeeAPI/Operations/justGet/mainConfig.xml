@@ -1,0 +1,19 @@
+ <resource methods="GET">
+      <inSequence onError="ErrorSequence">
+         <property name="FORCE_ERROR_ON_SOAP_FAULT" value="true"></property>
+         <property name="query.param.pName" expression="$url:pName"></property>
+         <property name="query.param.pColumns" expression="$url:pColumns"></property>
+         <log level="custom">
+            <property name="GET Employee Log " expression="get-property('query.param.pName')"></property>
+         </log>
+         <send>
+            <endpoint key="H2_EMP_SEARCH_EP"></endpoint>
+         </send>
+      </inSequence>
+      <outSequence>
+         <log level="full"></log>
+         <xslt key="attribute_remove_xslt"></xslt>
+         <property name="messageType" value="application/json" scope="axis2"></property>
+         <send></send>
+      </outSequence>
+   </resource>

@@ -1,0 +1,31 @@
+<api xmlns="http://ws.apache.org/ns/synapse" context="/EmployeeAPI" name="EmployeeAPI">
+<resource methods="GET">
+      <inSequence onError="ErrorSequence">
+         <property name="FORCE_ERROR_ON_SOAP_FAULT" value="true"/>
+         <property expression="$url:pName" name="query.param.pName"/>
+         <property expression="$url:pColumns" name="query.param.pColumns"/>
+         <log level="custom">
+            <property expression="get-property('query.param.pName')" name="GET Employee Log "/>
+         </log>
+         <send>
+            <endpoint key="H2_EMP_SEARCH_EP"/>
+         </send>
+      </inSequence>
+      <outSequence>
+         <log level="full"/>
+         <xslt key="attribute_remove_xslt"/>
+         <property name="messageType" scope="axis2" value="application/json"/>
+         <send/>
+      </outSequence>
+   </resource>
+    <resource methods="GET" uri-template="/employee/{partyID}/leaves*">
+      <inSequence>
+         <sequence key="Employee_Leave_Seq"/>
+      </inSequence>
+      <outSequence>
+         <xslt key="attribute_remove_xslt"/>
+         <property name="messageType" scope="axis2" value="application/json"/>
+         <send/>
+      </outSequence>
+   </resource>
+</api>

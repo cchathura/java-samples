@@ -278,3 +278,259 @@
 2015-04-10 13:33:02 INFO  XMLCreatorUtillImpl:117 - startmerge files
 2015-04-10 13:33:02 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
 2015-04-10 13:33:02 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-10 15:43:19 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 15:43:19 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-10 15:57:04 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 15:57:04 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-10 16:26:10 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-10 16:26:10 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-20 12:04:13 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 12:04:13 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-20 12:08:47 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 12:08:47 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-20 12:18:25 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 12:18:25 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\Attendance
+2015-04-20 12:18:25 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\justGet
+2015-04-20 12:18:25 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\leaves
+2015-04-20 15:31:16 WARN  ESBAPIDeploymentFactory:110 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI
+2015-04-20 15:35:31 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 15:36:22 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 15:37:28 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 15:37:28 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-20 16:57:21 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 16:57:21 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-20 17:00:12 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 17:00:12 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-20 17:19:20 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 17:19:20 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-20 17:31:47 WARN  EsbXmlFileHandlerForAPIs:151 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\API-DeploymentScript
+2015-04-20 17:31:47 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\API-DeploymentScript\operations
+2015-04-20 17:31:47 WARN  ESBAPIDeploymentFactory:73 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\API-DeploymentScript
+2015-04-20 17:31:47 WARN  EsbXmlFileHandlerForAPIs:151 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-20 17:31:47 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-20 17:31:47 WARN  ESBAPIDeploymentFactory:73 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-20 17:31:47 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 17:31:47 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-20 17:31:47 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 17:31:47 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-20 17:31:47 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-20 17:33:51 WARN  EsbXmlFileHandlerForAPIs:151 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-20 17:33:51 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-20 17:33:51 WARN  ESBAPIDeploymentFactory:73 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-20 17:33:51 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 17:33:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-20 17:33:51 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 17:33:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-20 17:33:51 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-20 17:35:09 WARN  EsbXmlFileHandlerForAPIs:151 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-20 17:35:09 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-20 17:35:09 WARN  ESBAPIDeploymentFactory:73 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-20 17:35:09 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 17:35:09 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-20 17:35:09 INFO  XMLCreatorUtillImpl:141 - file write API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-20 17:35:09 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-20 17:35:09 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-20 17:35:09 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-20 17:35:09 INFO  XMLCreatorUtillImpl:141 - file write API-DeploymentScript\TaskAPI-deployment.xml
+2015-04-21 07:37:44 WARN  EsbXmlFileHandlerForAPIs:151 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-21 07:37:44 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-21 07:37:44 WARN  ESBAPIDeploymentFactory:74 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-21 07:37:44 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 07:37:44 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 07:37:44 INFO  XMLCreatorUtillImpl:141 - file write API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 07:37:44 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 07:37:44 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-21 07:37:44 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-21 07:37:44 INFO  XMLCreatorUtillImpl:141 - file write API-DeploymentScript\TaskAPI-deployment.xml
+2015-04-21 07:39:36 WARN  EsbXmlFileHandlerForAPIs:151 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-21 07:39:36 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-21 07:39:36 WARN  ESBAPIDeploymentFactory:75 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-21 07:39:36 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 07:39:36 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 07:39:36 INFO  XMLCreatorUtillImpl:141 - file write C:\Projects\research\EAG\svn\services/esb/APIs\API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 07:39:36 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 07:39:36 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-21 07:39:36 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-21 07:39:36 INFO  XMLCreatorUtillImpl:141 - file write C:\Projects\research\EAG\svn\services/esb/APIs\API-DeploymentScript\TaskAPI-deployment.xml
+2015-04-21 07:39:49 WARN  EsbXmlFileHandlerForAPIs:151 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\API-DeploymentScript
+2015-04-21 07:39:49 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\API-DeploymentScript\operations
+2015-04-21 07:39:49 WARN  ESBAPIDeploymentFactory:75 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\API-DeploymentScript
+2015-04-21 07:39:49 WARN  EsbXmlFileHandlerForAPIs:151 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-21 07:39:49 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-21 07:39:49 WARN  ESBAPIDeploymentFactory:75 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-21 07:39:49 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 07:39:49 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 07:39:49 INFO  XMLCreatorUtillImpl:141 - file write C:\Projects\research\EAG\svn\services/esb/APIs\API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 07:39:49 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 07:39:49 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-21 07:39:49 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-21 07:39:49 INFO  XMLCreatorUtillImpl:141 - file write C:\Projects\research\EAG\svn\services/esb/APIs\API-DeploymentScript\TaskAPI-deployment.xml
+2015-04-21 08:03:59 WARN  EsbXmlFileHandlerForAPIs:151 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-21 08:03:59 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-21 08:03:59 WARN  ESBAPIDeploymentFactory:75 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-21 08:03:59 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 08:03:59 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 08:03:59 INFO  XMLCreatorUtillImpl:141 - file write C:\Projects\research\EAG\svn\API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 08:03:59 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 08:03:59 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-21 08:03:59 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-21 08:03:59 INFO  XMLCreatorUtillImpl:141 - file write C:\Projects\research\EAG\svn\API-DeploymentScript\TaskAPI-deployment.xml
+2015-04-21 08:05:30 WARN  EsbXmlFileHandlerForAPIs:151 - initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-21 08:05:30 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-21 08:05:30 WARN  ESBAPIDeploymentFactory:75 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-21 08:05:30 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 08:05:30 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 08:05:30 INFO  XMLCreatorUtillImpl:141 - file write C:\Projects\research\EAG\svn\deployment/API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 08:05:30 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 08:05:30 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-21 08:05:30 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-21 08:05:30 INFO  XMLCreatorUtillImpl:141 - file write C:\Projects\research\EAG\svn\deployment/API-DeploymentScript\TaskAPI-deployment.xml
+2015-04-21 08:12:41 INFO  XMLCreatorUtillImpl:117 - startmerge files
+2015-04-21 08:12:41 INFO  XMLCreatorUtillImpl:134 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 08:12:41 INFO  XMLCreatorUtillImpl:141 - file write C:\Projects\research\EAG\svn\deployment/API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 13:02:05 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\Attendance\Config.xml to C:\Projects\research\EAG\svn\services/DSS/ServiceConfig\Attendance-Config.xml
+2015-04-21 13:02:05 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\services/DSS/ServiceConfig\OnBoarding_Services-Config.xml
+2015-04-21 13:05:23 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\Attendance\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Attendance-Config.xml
+2015-04-21 13:05:23 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 14:12:17 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 14:27:07 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 14:27:08 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 14:27:30 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 14:31:38 INFO  DSSServiceDeploymentFactory:31 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 14:31:38 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 14:32:25 INFO  DSSServiceDeploymentFactory:31 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 14:32:44 INFO  DSSServiceDeploymentFactory:31 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 14:32:44 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 15:11:47 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:12:57 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:15:07 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:19:55 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:19:55 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:19:55 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 15:21:14 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:21:14 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\Attendance\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Attendance-Config.xml
+2015-04-21 15:21:14 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:21:14 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 15:21:51 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:21:51 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\Attendance\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Attendance-Config.xml
+2015-04-21 15:21:51 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:21:51 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 15:23:06 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:23:28 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\Attendance\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Attendance-Config.xml
+2015-04-21 15:24:43 INFO  DSSServiceDeploymentFactory:64 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript
+2015-04-21 15:24:43 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\Attendance\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Attendance-Config.xml
+2015-04-21 15:24:43 INFO  XMLCreatorUtillImpl:157 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\OnBoarding_Services-Config.xml
+2015-04-21 15:49:00 INFO  XMLCreatorUtillImpl:119 - startmerge files
+2015-04-21 15:49:00 INFO  XMLCreatorUtillImpl:136 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 15:49:00 INFO  XMLCreatorUtillImpl:143 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 15:50:16 INFO  XMLCreatorUtillImpl:119 - startmerge files
+2015-04-21 15:50:16 INFO  XMLCreatorUtillImpl:136 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 15:50:16 INFO  XMLCreatorUtillImpl:143 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 15:53:05 INFO  XMLCreatorUtillImpl:119 - startmerge files
+2015-04-21 15:53:05 INFO  XMLCreatorUtillImpl:136 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 15:53:05 INFO  XMLCreatorUtillImpl:143 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 15:54:25 INFO  XMLCreatorUtillImpl:119 - startmerge files
+2015-04-21 15:55:01 INFO  XMLCreatorUtillImpl:119 - startmerge files
+2015-04-21 16:10:37 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:10:55 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:14:46 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:15:32 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:15:32 INFO  XMLCreatorUtillImpl:140 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 16:15:32 INFO  XMLCreatorUtillImpl:147 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 16:15:48 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:15:48 INFO  XMLCreatorUtillImpl:140 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 16:15:48 INFO  XMLCreatorUtillImpl:147 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 16:23:11 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:23:42 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:23:58 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:23:58 INFO  XMLCreatorUtillImpl:141 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 16:23:58 INFO  XMLCreatorUtillImpl:148 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 16:40:06 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:40:06 INFO  XMLCreatorUtillImpl:141 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 16:40:06 INFO  XMLCreatorUtillImpl:148 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 16:45:45 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:45:45 INFO  XMLCreatorUtillImpl:141 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 16:45:45 INFO  XMLCreatorUtillImpl:148 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 16:47:46 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:51:10 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:51:10 INFO  XMLCreatorUtillImpl:142 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 16:51:10 INFO  XMLCreatorUtillImpl:149 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 16:52:09 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 16:52:09 INFO  XMLCreatorUtillImpl:142 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 16:52:09 INFO  XMLCreatorUtillImpl:149 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 17:03:02 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 17:03:02 INFO  XMLCreatorUtillImpl:144 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 17:03:02 INFO  XMLCreatorUtillImpl:151 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-21 17:14:04 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-21 17:14:04 INFO  XMLCreatorUtillImpl:144 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-21 17:14:04 INFO  XMLCreatorUtillImpl:151 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-22 08:07:29 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 08:07:29 INFO  XMLCreatorUtillImpl:144 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-22 08:07:29 INFO  XMLCreatorUtillImpl:151 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-22 10:08:55 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\EmployeeAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\instructionDOC.docxdeployment/APIM-APIs-Deployments
+2015-04-22 10:08:55 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\ProjectAPI\mainConfig.xml to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\mainConfig.xmldeployment/APIM-APIs-Deployments
+2015-04-22 11:51:25 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\EmployeeAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\instructionDOC.docxdeployment/APIM-APIs-Deployments
+2015-04-22 11:51:25 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\ProjectAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\instructionDOC.docxdeployment/APIM-APIs-Deployments
+2015-04-22 12:04:11 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\EmployeeAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\EmployeeAPIdeployment/APIM-APIs-Deployments
+2015-04-22 12:04:11 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\ProjectAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\ProjectAPIdeployment/APIM-APIs-Deployments
+2015-04-22 12:25:45 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\EmployeeAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\EmployeeAPI-instruction-Manual.docx
+2015-04-22 12:25:45 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\ProjectAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\ProjectAPI-instruction-Manual.docx
+2015-04-22 12:26:09 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\EmployeeAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\EmployeeAPI-instruction-Manual.docx
+2015-04-22 12:26:09 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\ProjectAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\ProjectAPI-instruction-Manual.docx
+2015-04-22 12:56:23 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\EmployeeAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\EmployeeAPI-instruction-Manual.docx
+2015-04-22 12:56:23 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\ProjectAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\ProjectAPI-instruction-Manual.docx
+2015-04-22 13:17:55 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\EmployeeAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\Release-1.0\EmployeeAPI-instruction-Manual.docx
+2015-04-22 13:17:55 INFO  XMLCreatorUtillImpl:165 - copy file C:\Projects\research\EAG\svn\services\APIM\ProjectAPI\instructionDOC.docx to C:\Projects\research\EAG\svn\deployment/APIM-APIs-Deployments\Release-1.0\ProjectAPI-instruction-Manual.docx
+2015-04-22 13:22:42 WARN  EsbXmlFileHandlerForAPIs:151 - InitialConfigs/initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-22 13:22:42 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-22 13:22:42 WARN  ESBAPIDeploymentFactory:68 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-22 13:22:42 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:22:42 INFO  XMLCreatorUtillImpl:144 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-22 13:22:42 INFO  XMLCreatorUtillImpl:151 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-22 13:22:43 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:24:22 WARN  EsbXmlFileHandlerForAPIs:151 - InitialConfigs/initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-22 13:24:22 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-22 13:24:22 WARN  ESBAPIDeploymentFactory:68 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-22 13:24:22 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:24:22 INFO  XMLCreatorUtillImpl:144 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-22 13:24:22 INFO  XMLCreatorUtillImpl:151 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-22 13:24:22 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:25:42 WARN  EsbXmlFileHandlerForAPIs:151 - InitialConfigs/initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-22 13:25:42 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-22 13:25:42 WARN  ESBAPIDeploymentFactory:68 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-22 13:25:42 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:25:43 INFO  XMLCreatorUtillImpl:146 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-22 13:25:43 INFO  XMLCreatorUtillImpl:153 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\EmployeeAPI-deployment.xml
+2015-04-22 13:25:43 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:25:43 INFO  XMLCreatorUtillImpl:146 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-22 13:25:43 INFO  XMLCreatorUtillImpl:146 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-22 13:25:43 INFO  XMLCreatorUtillImpl:153 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\TaskAPI-deployment.xml
+2015-04-22 13:40:10 WARN  EsbXmlFileHandlerForAPIs:151 - InitialConfigs/initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-22 13:40:10 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-22 13:40:10 WARN  ESBAPIDeploymentFactory:69 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-22 13:40:10 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:40:10 INFO  XMLCreatorUtillImpl:146 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-22 13:40:10 INFO  XMLCreatorUtillImpl:153 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\Realease-1.0\EmployeeAPI-deployment.xml
+2015-04-22 13:40:10 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:40:10 INFO  XMLCreatorUtillImpl:146 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-22 13:40:10 INFO  XMLCreatorUtillImpl:146 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-22 13:40:10 INFO  XMLCreatorUtillImpl:153 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\Realease-1.0\TaskAPI-deployment.xml
+2015-04-22 13:40:30 WARN  EsbXmlFileHandlerForAPIs:151 - InitialConfigs/initConfig.xmlnot availble in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-22 13:40:30 WARN  EsbXmlFileHandlerForAPIs:132 - directory not availableC:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI\operations
+2015-04-22 13:40:30 WARN  ESBAPIDeploymentFactory:69 - expected xml files notavailbe in C:\Projects\research\EAG\svn\services\esb\APIs\AttendanceAPI
+2015-04-22 13:40:30 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:40:30 INFO  XMLCreatorUtillImpl:146 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-22 13:40:30 INFO  XMLCreatorUtillImpl:153 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\Realease-1.1\EmployeeAPI-deployment.xml
+2015-04-22 13:40:30 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:40:30 INFO  XMLCreatorUtillImpl:146 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Loginfortoken
+2015-04-22 13:40:30 INFO  XMLCreatorUtillImpl:146 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\TaskAPI\operations\Qulifications
+2015-04-22 13:40:30 INFO  XMLCreatorUtillImpl:153 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\Realease-1.1\TaskAPI-deployment.xml
+2015-04-22 13:41:23 INFO  XMLCreatorUtillImpl:121 - startmerge files
+2015-04-22 13:41:23 INFO  XMLCreatorUtillImpl:146 - File merged :C:\Projects\research\EAG\svn\services\esb\APIs\EmployeeAPI\operations\isTimeEntered
+2015-04-22 13:41:23 INFO  XMLCreatorUtillImpl:153 - file write C:\Projects\research\EAG\svn\deployment/ESB-API-DeploymentScript\Realease-1.1\EmployeeAPI-deployment.xml
+2015-04-22 14:30:28 INFO  DSSServiceDeploymentFactory:82 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Release1.0
+2015-04-22 14:30:28 INFO  XMLCreatorUtillImpl:167 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\Attendance\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Release1.0\Attendance-Config.xml
+2015-04-22 14:30:28 INFO  XMLCreatorUtillImpl:167 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Release1.0\OnBoarding_Services-Config.xml
+2015-04-22 14:31:37 INFO  DSSServiceDeploymentFactory:41 - clear deployment dirC:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Release1.0
+2015-04-22 14:31:37 INFO  XMLCreatorUtillImpl:167 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\Attendance\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Release1.0\Attendance-Config.xml
+2015-04-22 14:31:37 INFO  XMLCreatorUtillImpl:167 - copy file C:\Projects\research\EAG\svn\services\DSS\ServiceConfig\OnBoarding_Services\Config.xml to C:\Projects\research\EAG\svn\deployment/DSS-ServiceDeploymentScript\Release1.0\OnBoarding_Services-Config.xml

@@ -7,9 +7,9 @@ import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
 import org.apache.log4j.Logger;
 
-import PropertyLoader.PropertyLoader;
-import factories.DeploymentAbstarctFactory;
-import factories.DeploymentFactoryMaker;
+import deploymentFactories.DeploymentAbstarctFactory;
+import deploymentFactories.DeploymentFactoryMaker;
+import PropertyLoader.DeploymentPropertyLoader;
 
 public class CLI {
 	final static Logger logger = Logger.getLogger(CLI.class);
@@ -43,7 +43,7 @@ public class CLI {
 				String[] apinames = cmd.getOptionValue("v").split(",");
 				logger.info("run for selected APIs");
 				DeploymentAbstarctFactory deploymentFactory =DeploymentFactoryMaker.getDeploymentFactory("esbapiDeployment");
-				deploymentFactory.createDeploymentXML(PropertyLoader.getInstanse().getDeploymentFile(), apinames);
+				deploymentFactory.createDeploymentXML(DeploymentPropertyLoader.getInstanse().getDeploymentFile(), apinames);
 
 				// Whatever you want to do with the setting goes here
 
@@ -62,7 +62,7 @@ public class CLI {
 	
 	void createDeploymentXmlAllApi(){
 		DeploymentAbstarctFactory deploymentFactory =DeploymentFactoryMaker.getDeploymentFactory("esbapiDeployment");
-		deploymentFactory.createDeploymentXML(PropertyLoader.getInstanse().getDeploymentFile());
+		deploymentFactory.createDeploymentXML(DeploymentPropertyLoader.getInstanse().getDeploymentFile());
 	}
 
 }
